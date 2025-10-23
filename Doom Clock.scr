@@ -1,0 +1,2 @@
+@echo off 
+start "" "C:\Users\nikita_v\Downloads\DoomClock\DoomClock.exe" 
